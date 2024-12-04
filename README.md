@@ -123,7 +123,23 @@
    provider.on('message', (message) => {
      setMessage(message);
    });
-   ```
+   ```avatar
+
+Pay 100.00
+
+USD
+
+to
+Atlantic International University
+
+Select payment method
+
+Not sure how to pay with crypto? Learn more
+
+Payments processed by Coinbase Commerce. Be sure you trust the merchant listed, as transactions are final and refunds are handled by the merchant.
+
+and Privacy Policy
+
 
 ### Developing locally and running the test dapp
 
